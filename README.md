@@ -13,7 +13,7 @@
 
 После установки, в консоль нужно написать следующую команду:
 ```
-git clone https://github.com/Vermilonik/TelegramBackdoor
+git clone https://github.com/CryWithAll/TelegramBackdoor
 ```
 Открой директорию с именем **TelegramBackdoor/** и после этого открой файл **config.py**. В первой строке нужно написать свой телеграм id(ты можешь получить его с помощью этого [бота](https://t.me/username_to_id_bot)), во второй нужно написать токен бота
 
